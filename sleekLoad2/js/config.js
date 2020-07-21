@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "Sentinel Networks";
+var l_serverName = "Project Archer";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -106,7 +106,7 @@ var l_bgDarkening = 65;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = true;
+var l_music = false;
 
 // Display current music name?
 // 'true' or 'false'
